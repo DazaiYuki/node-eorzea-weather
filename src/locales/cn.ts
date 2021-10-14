@@ -61,7 +61,7 @@ export default {
     'zones.theLavenderBeds': '薰衣草苗圃',
     'zones.theLochs': '基拉巴尼亚湖区',
     'zones.thePeaks': '基拉巴尼亚山区',
-    'zones.theRaktikaGreatwood': "拉卡提卡大森林",
+    'zones.theRaktikaGreatwood': "拉凯提卡大森林",
     'zones.theRubySea': '红玉海',
     'zones.theSeaOfClouds': '阿巴拉提亚云海',
     'zones.theTempest': '黑风海',
